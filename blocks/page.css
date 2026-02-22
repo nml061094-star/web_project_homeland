@@ -1,0 +1,13 @@
+.page {
+  max-width: 1280px;
+  min-width: 320px;
+  height: 100%;
+  margin: 0 auto;
+  padding-left: 148px;
+  padding-right: 148px;
+  font-family: "Inter";
+  background-color: #2a2e2f;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
