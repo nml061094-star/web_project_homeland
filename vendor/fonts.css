@@ -314,6 +314,7 @@
     squared-characters: 6;
   }
 }
+
 @font-feature-values Inter {
   @character-variant {
     cv01: 1;
@@ -362,6 +363,7 @@
     squared-characters: 6;
   }
 }
+
 @font-feature-values InterDisplay {
   @character-variant {
     cv01: 1;
