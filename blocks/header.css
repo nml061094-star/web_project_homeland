@@ -10,3 +10,35 @@
   padding-top: 34px;
   padding-bottom: 91.06px;
 }
+
+@media screen and (max-width: 1024px) {
+  .header__logo {
+    max-width: 176px;
+    max-height: 52px;
+    padding-top: 28px;
+    padding-bottom: 56px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header__logo {
+    max-width: 254px;
+    max-height: 66px;
+    padding-top: 30px;
+    padding-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .header__logo {
+    max-width: 188px;
+    max-height: 52px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+}
